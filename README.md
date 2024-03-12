@@ -1,4 +1,4 @@
-# Sentiment Analysis with Python
+# Sentiment Analysis with Python NLTK
 
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](sentiment_analysis.ipynb) [![Python](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/downloads/)
 
