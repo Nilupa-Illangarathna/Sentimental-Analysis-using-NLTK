@@ -1,8 +1,6 @@
 # Sentiment Analysis with Python
 
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](sentiment_analysis.ipynb)
-
-[![Python](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/downloads/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](sentiment_analysis.ipynb) [![Python](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/downloads/)
 
 This repository contains Python code for sentiment analysis on a dataset of positive and negative reviews using natural language processing techniques.
 
